@@ -1,0 +1,10 @@
+.fieldsConteiner {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.colorIcon {
+    color: black;
+}

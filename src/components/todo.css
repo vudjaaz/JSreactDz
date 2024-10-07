@@ -1,0 +1,16 @@
+.todoWrapper {
+    display: flex;
+    flex-direction: row;
+    width: 924px;
+    margin-bottom: 40px;
+}
+
+.addBtn {
+    width: 100px;
+    border: 1px solid black;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,18 @@
+.light {
+    background-color: white;
+    color: black;
+    height: 100vh;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    height: 100vh;
+
+}
+.dark a:visited {
+    color: white;
+}
+.light a:visited {
+    color: black;
+}
